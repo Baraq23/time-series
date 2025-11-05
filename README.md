@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Baraq23/time-series
    cd time-series
    ```
 
