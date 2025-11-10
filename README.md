@@ -26,28 +26,28 @@ time-series/
 
 ## Notebooks Description
 
-### 📊 Notebook 01: Series Operations
+###  Notebook 01: Series Operations
 **Focus**: Basic pandas Series and time series fundamentals
 - Creating date ranges and time series data
 - Computing rolling moving averages
 - Understanding pandas datetime indexing
 - Basic time series transformations
 
-### 📈 Notebook 02: Financial Data Analysis
+###  Notebook 02: Financial Data Analysis
 **Focus**: Real-world financial data processing and visualization
 - Loading and processing AAPL stock data from CSV
 - Interactive financial charts using Plotly
 - OHLCV (Open, High, Low, Close, Volume) data analysis
 - Data cleaning and missing value handling
 
-### 💼 Notebook 03: Multi-Asset Returns
+###  Notebook 03: Multi-Asset Returns
 **Focus**: Portfolio analysis and returns calculation
 - Multi-asset data structure using MultiIndex
 - Generating synthetic market data for multiple tickers (AAPL, FB, GE, AMZN, DAI)
 - Computing daily returns across multiple assets
 - Data pivoting and restructuring techniques
 
-### ⚡ Notebook 04: Backtesting Framework
+###  Notebook 04: Backtesting Framework
 **Focus**: Trading strategy implementation and evaluation
 - Building a simple backtesting engine
 - Implementing random long-only trading strategy
